@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    margin:0px;
+    padding:0px;
+}
+header{
+    background-color:yellow;
+    padding:36px;
+}
+a{
+    margin:10px;
+    padding: 45px;
+    text-decoration:none;
+    color:black;
+
+    
+}
+.photo{
+    background-color: white;
+    border-radius:10px;
+    padding: 10px;
+    font-size:20px;
+
+}
+h1{
+    text-align: center;
+    color: chocolate;
+}
+ img{
+     margin: 15px;
+     padding: 25px;
+     height:250px;
+     width:200px;
+ }
+ footer{
+     background-color: yellow;
+     padding:5px;
+ }
+ p{
+     margin:15px;
+     padding:10px;
+ }
